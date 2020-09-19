@@ -1,0 +1,328 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SmartPhone",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-",
+      "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "SmartPhone1",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "name": "SmartPhone2",
+      "description": "",
+      "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+      "price": 299
+    },
+    {
+      "id": 4,
+      "name": "SmartPhone",
+      "description": "nd Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ",
+      "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+      "price": 299
+    },
+    {
+      "id": 1,
+      "name": "SmartPhone",
+      "description": "nd Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ",
+      "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+      "price": 299
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "nd Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 2999
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone211",
+        "description": "nd Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "nd Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "SmartPhone",
+        "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 20
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 21
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 22
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 23
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 24
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 25
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "SmartPhone2",
+        "description": "",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 26
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "SmartPhone1",
+        "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "imageUrl": "https://i.pinimg.com/originals/9c/60/d8/9c60d8083f3f2253ce9a3bfdc01ebb68.png",
+        "price": 299
+      },
+      "id": 27
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
